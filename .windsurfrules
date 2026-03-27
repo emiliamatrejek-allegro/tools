@@ -1,0 +1,21 @@
+# AI Rules
+
+> Plik źródłowy dla wszystkich narzędzi AI w tym repo.
+> Zmiany tutaj → uruchom `scripts/sync-ai-rules.ps1`, żeby skopiować do:
+> - `.github/copilot-instructions.md`
+> - `.windsurfrules`
+> - `AGENTS.md`
+
+---
+
+## Kontekst projektu
+
+<!-- Opisz projekt, jego cel, stack technologiczny -->
+
+## Konwencje kodu
+
+<!-- Preferowany styl, nazewnictwo, wzorce -->
+
+## Czego NIE robić
+
+<!-- Anty-wzorce, rzeczy do uniknięcia -->
